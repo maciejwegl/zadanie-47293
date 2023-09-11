@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background-color:#e0e2e4;
+    width: 60vw;
+    height: fit-content;
+    padding: 20px 50px 50px 50px;
+}
+
+p {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.opacit {
+    opacity: 0.3;
+}
+
